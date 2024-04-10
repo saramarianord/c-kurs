@@ -1,0 +1,16 @@
+C:\Users\saran\source\repos\Ovning\Ovning\bin\Debug\Ovning.exe.config
+C:\Users\saran\source\repos\Ovning\Ovning\bin\Debug\Ovning.exe
+C:\Users\saran\source\repos\Ovning\Ovning\bin\Debug\Ovning.pdb
+C:\Users\saran\source\repos\Ovning\Ovning\obj\Debug\Ovning.csproj.AssemblyReference.cache
+C:\Users\saran\source\repos\Ovning\Ovning\obj\Debug\Ovning.csproj.SuggestedBindingRedirects.cache
+C:\Users\saran\source\repos\Ovning\Ovning\obj\Debug\Ovning.MainForm.resources
+C:\Users\saran\source\repos\Ovning\Ovning\obj\Debug\Ovning.Properties.Resources.resources
+C:\Users\saran\source\repos\Ovning\Ovning\obj\Debug\Ovning.csproj.GenerateResource.cache
+C:\Users\saran\source\repos\Ovning\Ovning\obj\Debug\Ovning.csproj.CoreCompileInputs.cache
+C:\Users\saran\source\repos\Ovning\Ovning\obj\Debug\Ovning.exe
+C:\Users\saran\source\repos\Ovning\Ovning\obj\Debug\Ovning.pdb
+C:\Users\saran\source\repos\Ovning\Ovning\obj\Debug\Ovning.ManagementControll.resources
+C:\Users\saran\source\repos\Ovning\Ovning\obj\Debug\Ovning.addBok.resources
+C:\Users\saran\source\repos\Ovning\Ovning\obj\Debug\Ovning.addSpel1.resources
+C:\Users\saran\source\repos\Ovning\Ovning\obj\Debug\Ovning.addFilm.resources
+C:\Users\saran\source\repos\Ovning\Ovning\obj\Debug\Ovning.kassaKontroll.resources
